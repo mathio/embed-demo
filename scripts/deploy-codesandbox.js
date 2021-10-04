@@ -171,7 +171,7 @@ Demos for [@typeform/embed](https://github.com/Typeform/embed).
 ${demoHtmlNames
       .map(
         (name, index) =>
-          `${index + 1}. [${name}](https://codesandbox.io/s/github/Typeform/embed-demo/tree/master/${demoHtmlDirName}/${name})`
+          `${index + 1}. [${name}](https://codesandbox.io/s/github/mathio/embed-demo/tree/master/${demoHtmlDirName}/${name})`
       )
       .join('\n')}
 
@@ -180,7 +180,7 @@ ${demoHtmlNames
 ${demoNextNames
       .map(
         (name, index) =>
-          `${index + 1}. [${name}](https://codesandbox.io/s/github/Typeform/embed-demo/tree/master/${demoNextDirName}/${name})`
+          `${index + 1}. [${name}](https://codesandbox.io/s/github/mathio/embed-demo/tree/master/${demoNextDirName}/${name})`
       )
       .join('\n')}
 
